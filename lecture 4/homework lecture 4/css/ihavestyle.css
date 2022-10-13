@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300&display=swap');
+
+
+body
+{
+	background-color : #78BC61;
+}
+
+p
+{
+	color: #2B303D;
+	font-family: Verdana, sans serif;
+}
+
+h1
+{
+	color: #3D3B2B;
+	font-family: Arial Black, sans serif;
+}
+
+h2
+{
+	color: #564F2D;
+	font-family:'Roboto';
+}
+
+table
+{
+	color: #203522;
+	font-family: 'Inter Tight';
+}
+
+th
+{
+	font-weight: bolder;
+}
+
+td
+{
+	font-style: italic;
+}
+
+
+forms
+{
+	color: #7E8A4D
+	font-family: Gill Sans, sans serif;
+	
+}
+
