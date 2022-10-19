@@ -1,0 +1,96 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300&display=swap');
+
+
+
+body
+{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0;
+	border: 0;
+	background-color : #78BC61;
+	
+	font-size: 16px;
+}
+
+p
+{
+	color: #2B303D;
+	font-family: Verdana, sans serif;
+	
+}
+
+#paragheader
+{
+	font-size: 2.5em;
+	
+}
+
+#firstparagraph
+{
+	font-size: 2em;
+	font: 95% sans serif;
+	background-color: white;
+}
+
+#listheader
+{
+	font-size: 1.5em;
+}
+
+
+h1
+{
+	color: #3D3B2B;
+	font-family: Arial Black, sans serif;
+
+}
+
+h2
+{
+	color: #564F2D;
+	font-family:'Roboto';
+	font-size: 2em;
+}
+
+table
+{
+	color: #203522;
+	font-family: 'Inter Tight';
+}
+
+th
+{
+	font-weight: bolder;
+	
+}
+
+.Testing + th
+{
+	background-color: #F0F;
+}
+
+.Secondtesting,th
+{
+	background-color: #FFA07A;
+}
+
+td
+{
+	font-style: italic;
+}
+
+
+forms
+{
+	color: #7E8A4D
+	font-family: Gill Sans, sans serif;
+	
+}
+
+td:nth-child(2n+0)
+{
+	background: #CCC;
+}
